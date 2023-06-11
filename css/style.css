@@ -527,7 +527,10 @@ img.image {
     background-color: #f76d37;
     color: #ffffff;
 }
-
+.logostudo{
+    height: 70px;
+    width: 100px;
+}
 a:hover {
     color: #f76d37;
     text-decoration: underline;
